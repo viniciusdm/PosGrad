@@ -1,6 +1,6 @@
 
 #Author: Vinicius Bueno de Moraes - 2021 - Brazil - SP
-#Vector Subspace Analysis
+#Vector Subspace Analysis - Linear Algebra
 #Code Entries - Portuguese-br
 
 # -*- coding: utf-8 -*-
